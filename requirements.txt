@@ -1,0 +1,15 @@
+# Keep the latest chainlit version
+chainlit
+python-dotenv
+azure-ai-projects
+azure-search-documents
+azure-storage-blob
+azure-identity
+requests
+urllib3
+tenacity
+openai
+aiohttp
+nest_asyncio
+literalai
+PyPDF2
